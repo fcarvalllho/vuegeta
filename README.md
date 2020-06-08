@@ -10,7 +10,7 @@ I'm a powerfull and pround framework who wants to face every kind of projects!"
 ```
 *Vuegeta is a component based framework using vuejs
 *The goal it is to help you to create awesome admin dashboards using Bulma as the stylesheet.
-*The main idea is to keep cleaning, lite and fast!
+*The main idea is to keep clean, lite and fast!
 ```
 I hope you enjoy it! =)
 
