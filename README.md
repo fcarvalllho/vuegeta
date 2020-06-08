@@ -1,4 +1,4 @@
-# VueGeta
+# Vuegeta
 ```
 "So... Are insects like you looking for me ? The incredible Vuegeta ? 
 Feel flattered for I let you use my aewesome components.
